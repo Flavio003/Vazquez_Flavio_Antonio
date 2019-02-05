@@ -1,3 +1,0 @@
-# cinematica.de.robots
-avances de proyectos, tareas y algo mas...
-En este repositorio se encuentran tareas, practicas y proyects de acuerdo al periodo cuatrimestral 8°b.
